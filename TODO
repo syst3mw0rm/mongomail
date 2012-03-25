@@ -4,3 +4,7 @@ Small todo list of what needs to be done still here:
 * Check encoding of content/title/authors...
 * Adjust the 'legacy_id' field to contain the correct information (see this with the pipermail guys)
 
+Feature requests:
+* Authentication to support user profiles.
+
+
